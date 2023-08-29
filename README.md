@@ -2,4 +2,4 @@
 Learning NLP
 | Day | Topics | Resources |
 | --- | ------ | ---------- |
-| [Day1]() |  |           | 
+| [Day1](https://github.com/Utshav-paudel/300DaysOFMachineLearning-DeepLearning/tree/Utshav-paudel) | word,character and subword tokenizer and created subword tokenizer |           | 
