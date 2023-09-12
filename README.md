@@ -7,5 +7,5 @@ Learning NLP
 | [Day3](https://github.com/Utshav-paudel/NLP-Transformer-LLM-fever/tree/d18231ef652e7b22e43ce7f1b3cd869a447da832/LLM_from_scratch/day3)| Pytorch functions and their implementation |  |
 | [Day4](https://github.com/Utshav-paudel/NLP-Transformer-LLM-fever/tree/7cd0867079b87b7f3d8aeddb9bd08f6b2d68a5f5/LLM_from_scratch/day4) | Embedding and developed Bigram language model that predict the next toke | |
 | [Day5](https://github.com/Utshav-paudel/NLP-Transformer-LLM-fever/tree/dbf245446a69abc335cc61945c38e837aa8e0ecf/LLM_from_scratch/day5) | Created evaluation function for the Bigram language model and optimzation of it | |
-| [Day6]() | Started to update Bigram to GPT language model , learned every detail of transformer and created forward pass , weight initialization and decoder portion  | |
+| [Day6](https://github.com/Utshav-paudel/NLP-Transformer-LLM-fever/tree/47d09f69e3418b0a8932fef92a20c515f9860f2f/LLM_from_scratch/day6) | Started to update Bigram to GPT language model , learned every detail of transformer and created forward pass , weight initialization and decoder portion  | |
 | [Day7]() | Created decoder class which contain -> multihead attention -> add and normalize -> feedforward-> add and normalize and also created the feedforward class of decoder that contain  ->Linear ->ReLU -> Linear | |
